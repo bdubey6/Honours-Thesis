@@ -1,0 +1,14 @@
+# Participant data — contains identifiable health/biometric info, not for public repo
+Data/Analysis/BD_MATLAB/Bhuvan_Dubey_Data/
+Data/Collection/
+
+# Duplicate/legacy MATLAB folder (superseded by BD_MATLAB/BhuvanMetabolics)
+Data/Analysis/BD_MATLAB/MatlabDubey/
+
+# OS junk
+.DS_Store
+._*
+Data/Analysis/.Rhistory
+
+# Print-resolution TIFF exports — too large for GitHub, .jpg versions kept instead
+Data/Figure/*.tif
